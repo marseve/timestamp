@@ -1,0 +1,6 @@
+title: "Timestamp"
+description: "Daily GPT × Mars artifacts"
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
